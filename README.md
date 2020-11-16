@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm shadow578, and I do random stuff related to programming.<br>
+_Sometimes I even try to do well :D_
+
+### These are my most- used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadow578&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Below are some of my better (lol) projects
+
 
 <!--
 **shadow578/shadow578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
