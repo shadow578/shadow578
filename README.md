@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm shadow578 (sometimes Chris), and I do random stuff related to programming.<br>
+I'm shadow578 _(aka Chris)_, and I do random stuff related to programming.<br>
 _Sometimes I even try to do well :D_
 
 ### These are my most- used languages
