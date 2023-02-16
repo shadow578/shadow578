@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm shadow578 _(aka Chris)_, and I do random stuff related to computer science, app development, embedded devices and (soon) big data & machine learning.<br>
+I'm shadow578 _(aka Chris)_, and I do random stuff related to computer science, app development and embedded devices.<br>
 
 _Sometimes i'm even good at those things :D_
 
