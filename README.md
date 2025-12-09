@@ -1,15 +1,19 @@
 ### Hi there 👋
-I'm shadow578 _(aka Chris)_, and I do random stuff related to computer science, app development and embedded devices.<br>
+
+I'm Chris _(aka shadow578)_, and I enjoy all kinds of random stuff related to software development, embedded devices, and reverse engineering.   
 
 _Sometimes i'm even good at those things :D_
 
 
-### Some Stats
-![shadow578's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow578&show_icons=true&count_private=true)
+### Quick Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadow578&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-_* note: 'Most Used Languages' does not mean that i'm any good at using them_
+![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shadow578&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
+![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shadow578&show_icons=true&count_private=true&theme=default#gh-light-mode-only)
+
+
+![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=shadow578&langs_count=6&layout=compact&theme=dark#gh-dark-mode-only)
+![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=shadow578&langs_count=6&layout=compact&theme=default#gh-light-mode-only)
 
 <!--
 **shadow578/shadow578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
