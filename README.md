@@ -7,13 +7,11 @@ _Sometimes i'm even good at those things :D_
 
 ### Quick Stats
 
+<!-- via https://githubcard.com/shadow578/card/ -->
 
-![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shadow578&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
-![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shadow578&show_icons=true&count_private=true&theme=default#gh-light-mode-only)
+![GitHub stats](https://githubcard.com/shadow578.svg?d=kB2ojaUW)
 
-
-![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=shadow578&langs_count=6&layout=compact&theme=dark#gh-dark-mode-only)
-![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=shadow578&langs_count=6&layout=compact&theme=default#gh-light-mode-only)
+![Top Langs](https://githubcard.com/shadow578.svg?d=JizTP_N6)
 
 <!--
 **shadow578/shadow578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
