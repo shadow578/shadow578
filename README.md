@@ -11,7 +11,7 @@ _Sometimes i'm even good at those things :D_
 
 ![GitHub stats](https://githubcard.com/shadow578.svg?d=kB2ojaUW)
 
-![Top Langs](https://githubcard.com/shadow578.svg?d=JizTP_N6)
+![Top Langs](https://githubcard.com/shadow578.svg?d=BD92fjsx)
 
 <!--
 **shadow578/shadow578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
